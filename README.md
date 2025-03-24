@@ -2,6 +2,7 @@
 
 '''
 Portfolio Optimization Summary
+
 This code performs portfolio optimization using two methods: Monte Carlo simulation and mathematical optimization with scipy.optimize.minimize.
 
 Data Preparation
