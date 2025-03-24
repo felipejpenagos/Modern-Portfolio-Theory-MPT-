@@ -1,6 +1,6 @@
 # portfolio_optimization_simulation
 
-'''
+
 Portfolio Optimization Summary
 
 This code performs portfolio optimization using two methods: Monte Carlo simulation and mathematical optimization with scipy.optimize.minimize.
@@ -22,4 +22,3 @@ A constraint is passed to the optimizer to ensure that the weights sum to 1. Thi
 Result Comparison and Visualization
 
 Both the Monte Carlo and optimized portfolios are plotted on the efficient frontier, allowing visual comparison of their risk-return profiles. The portfolio weights and Sharpe ratios for each approach are printed.
-'''
