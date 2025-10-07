@@ -1,6 +1,6 @@
 # Exploring the Applicability of Monte Carlo Simulations and Optimization for Asset Portfolios
 
-This repository explores two common approaches to portfolio optimization: Monte Carlo simulations and mathematical optimization using `scipy.optimize.minimize`. Both methods are applied to a portfolio consisting of four stocks: AMD, AAPL, MSFT, and ORCL.
+This repository explores two common approaches to portfolio optimization: **Monte Carlo simulations** and mathematical **SLSQP optimization** using `scipy.optimize.minimize`. Both methods are applied to a portfolio consisting of four stocks: AMD, AAPL, MSFT, and ORCL.
 
 ## Overview
 The goal is to identify the portfolio weights that maximize the Sharpe ratio, which balances return against risk. We compare:
